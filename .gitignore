@@ -1,0 +1,39 @@
+# Secrets and local env
+*.env
+*.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+
+# Confidential empiri — keep templates, ignore dumps
+research/data/*.json
+research/data/*.csv
+research/data/*.xlsx
+research/data/*.sql
+!research/data/.gitkeep
+!research/data/README.md
+
+# Local PDFs (books, transcripts). Keep markdown templates.
+*.pdf
+
+# Cursor user state, but commit rules
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+
+# Scratch
+.tmp_*
+_arkiv/

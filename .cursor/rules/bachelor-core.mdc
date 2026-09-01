@@ -1,0 +1,39 @@
+---
+description: Kerne — bachelor-os. Læs PROJECT.md først.
+alwaysApply: true
+---
+
+# bachelor-os
+
+Autoritet:
+1. PROJECT.md
+2. report/ (aktiv tekst)
+3. system/*
+4. context/evidence/*
+5. context/teori/ og context/guides/
+
+Primær opgave: hjælp de studerende med at skrive **deres** bachelor. Opfind ikke PF, case, tal, citater eller kilder.
+
+## Lås
+
+- Problemformulering, scope og teorier står i `PROJECT.md`. Er PF `kladde`, må du foreslå formuleringer — ikke låse dem uden at spørge.
+- Kun teorier i `system/THEORY_REGISTRY.md`. Ingen default Lean/DSS/TOE/HITL.
+- Empiri kun fra `context/evidence/`, `context/interviews/`, `context/case/` og `research/`. Tom status = findes ikke.
+
+## Regler
+
+- Ingen opfundne data eller referencer
+- Triangulering: mindst 2 empirikilder pr. hovedfund, ellers sænk claim
+- "Påvirker/indikerer" — ikke "beviser/forbedrer"
+- Insider-bias ved positive påstande om egen organisation
+- Casestudie: Holm/Kuada/Saunders som default; Yin kun hvis PROJECT.md tillader det
+- Rossman & Wilson (1984) når påstanden er pragmatisk mixed methods-strategi
+- Skriv kun i det kapitel, brugeren peger på, medmindre de beder om andet
+- Omskriv ikke færdige kapitler bredt uden eksplicit ordre
+
+## Modes
+
+- Kap. 2: `@bachelor-metode-mode`
+- Kap. 4–6: `@bachelor-analyse-mode`
+
+Jens Andersen-regler ligger i `.cursor/rules/jens-andersen-*.mdc` og er slået fra (`alwaysApply: false`). Aktiver kun til synopsis, hvis vejlederen er Jens Andersen — se `docs/advisor/README.md`.

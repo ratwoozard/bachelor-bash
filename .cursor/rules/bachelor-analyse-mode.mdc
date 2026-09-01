@@ -1,0 +1,24 @@
+---
+description: Mode B — Analysekapitler (kap. 4–6). Pragmatisk, disciplineret.
+alwaysApply: false
+globs:
+  - report/04-analysis.md
+  - report/05-discussion.md
+  - report/06-conclusion.md
+---
+
+# Bachelor — Analyse-mode (kap. 4–6)
+
+Læs først:
+
+1. PROJECT.md
+2. system/ANALYSIS_ENGINE.md
+3. system/THEORY_REGISTRY.md
+4. system/EVIDENCE_CHAIN_RULES.md
+5. system/ANALYSIS_QUALITY_GATES.md
+6. prompts/analysis-generation.md
+7. det konkrete afsnit i report/
+
+Ved konflikt om kapitel 4 vinder `system/*` over `ANALYSE_WRITEKIT.md`.
+
+Ingen ny teori i kapitel 4. Ingen ny empiri i kapitel 6.

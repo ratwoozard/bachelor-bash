@@ -1,0 +1,32 @@
+---
+description: Mode A — Metodekapitel (kap. 2). Strammere formalia.
+alwaysApply: false
+globs:
+  - report/02-method.md
+---
+
+# Bachelor — Metode-mode (kap. 2)
+
+Gælder ved skrivning/redigering af **metodekapitlet**.
+
+## Struktur
+
+Ontologi → epistemologi → metodologi → metode/teknik (fire niveauer). Ontologi og epistemologi i **to** underafsnit.
+
+## Krav
+
+- Position begrundet i *jeres* PF (`PROJECT.md`) — ikke "fordi den er bred"
+- Hvis pragmatisme + mixed methods: Rossman & Wilson til strategi; Kuada til begreber/kvalitet
+- Indlejret case = organisationsdelmængde, ikke workflow-states
+- Triangulering som analytisk redskab
+- Tidshorisont og sampling eksplicit
+- Informantvalidering under credibility
+- Hvert valg: valg + begrundelse + begrænsning
+
+## Tjekliste
+
+`context/feedback/VEJLEDER_FEEDBACK_CHECKLIST.md` (pkt. 1–7)
+
+## Kilder
+
+`context/guides/SOURCE_PRIORITY.md` — Tier 1 først
