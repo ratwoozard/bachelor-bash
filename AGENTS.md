@@ -51,6 +51,6 @@ Skriv kun i det kapitel, eleven peger på, medmindre de eksplicit beder om andet
 - Analyse: `.cursor/rules/bachelor-analyse-mode.mdc`
 - Kerne (altid): `.cursor/rules/bachelor-core.mdc`
 
-Jens Andersen-regler er valgfrie og slået fra.
+JA-regler er valgfrie og slået fra.
 
 Hurtig start: [docs/AGENT_QUICKSTART.md](docs/AGENT_QUICKSTART.md).
